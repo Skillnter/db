@@ -1,5 +1,16 @@
 {
 	"pokemon":[
 		"A", "B", "C"
-	]
+	],
+	"login":{
+		"status":200,
+		"message":"OK",
+		"data":{
+			"username":"test_name",
+			"name":"test",
+			"role":"admin",
+			"layout":"1",
+			"token":"Token eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwiZXhwIjoxNTg3Nzk0Mzc3fQ.WH7wBPwcSfaX-IB2IZM0zALj2r9wiOR0UtyOKdk-X44"
+		}
+	}
 }
